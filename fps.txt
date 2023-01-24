@@ -1,0 +1,13 @@
+NOTE: These were done standing still in one area.
+NOTE: These are the average framerates.
+NOTE: These were done with the default settings.
+NOTE: modrinth page 5-6 and higher used the MSI Afterburner OSD without the Minecraft UI rendering
+SEED: 7887504492626593519
+POS: x: -60.69 y: 118.75 z: -37.66 
+ROTATION: 10.90 9.37
+COMMAND: /execute in minecraft:overworld run tp @s -60.69 118.75 -37.66 10.90 9.37
+
+modrinth page 1-2: 269-270
+modrinth page 3-4: 269-270
+modrinth page 5-6: 276
+modrinth optimization page 1-5: 276-278
