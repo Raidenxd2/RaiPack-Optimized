@@ -14,5 +14,5 @@ Faster game loading. <br />
 Shaders: Complementary Reimagined (how to kill computer 101: put the shaders quality to ultra **EXPLOSION**) <br />
 
 # Incompatible Mods
-[More Culling](https://modrinth.com/mod/moreculling): Incompatible with Cull Less Leaves <br />
+[More Culling](https://modrinth.com/mod/moreculling): Incompatible with [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves) <br />
 [FX's Rail Optimization](https://modrinth.com/mod/rail-optimization): Crashes the game on startup. <br />
