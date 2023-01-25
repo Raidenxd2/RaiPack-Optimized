@@ -1,0 +1,38 @@
+BetterF3
+Cull Less Leaves
+DashLoader
+Debugify
+Dynamic FPS
+Entity Texture Features
+EntityCulling-Fabric
+Exordium
+Fabric API
+Fabric Language Kotlin
+FabricSkyBoxes
+Fast Load
+FastAnim
+FastQuit
+FerriteCore
+ImmediatelyFast
+Indium
+Iris
+Language Reload
+LazyDFU
+Lithium
+Let Me Despawn (has weird name in Prism Launcher)
+Memory Leak Fix
+MidnightControls
+Mixin Conflict Helper
+MixinTrace
+Mod Menu
+No Chat Reports
+OptiGUI
+Reese's Sodium Options
+Smooth Boot
+Sodium
+Sodium Extra
+Starlight
+ToolTip Fix
+YetAnotherConfigLib
+Zoomify
+FeyTweaks

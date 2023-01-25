@@ -1,0 +1,1 @@
+The mods folder is no longer updated. Please see ModList.txt in the root of the repo for the modlist.
