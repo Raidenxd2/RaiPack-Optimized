@@ -10,7 +10,7 @@ Faster world loading. <br />
 Faster game loading. <br />
 
 # Mod List
-[Mod List](nothereyetneedtodoagithubcommittoadd)
+[Mod List](https://github.com/Raidenxd2/RaiPack-Optimized/blob/main/ModList.txt)
 
 # One Screenshot
 ![2023-01-23_21 59 24](https://user-images.githubusercontent.com/64755433/214203713-e43420ef-538d-454d-9012-87dd3ec6408e.png)
